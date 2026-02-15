@@ -27,14 +27,14 @@
 ### 方法一：一键安装（推荐）
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/learning-plan-skill/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/guoqinggu/learning-plan-skill/main/install.sh | bash
 ```
 
 ### 方法二：手动安装
 
 ```bash
 # 克隆或下载 skill
-git clone https://github.com/yourusername/learning-plan-skill.git
+git clone https://github.com/guoqinggu/learning-plan-skill.git
 cd learning-plan-skill
 
 # 安装
@@ -581,8 +581,8 @@ MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
 
 ## 📞 支持
 
-- **Issues：** [GitHub Issues](https://github.com/yourusername/learning-plan-skill/issues)
-- **讨论：** [GitHub Discussions](https://github.com/yourusername/learning-plan-skill/discussions)
+- **Issues：** [GitHub Issues](https://github.com/guoqinggu/learning-plan-skill/issues)
+- **讨论：** [GitHub Discussions](https://github.com/guoqinggu/learning-plan-skill/discussions)
 - **邮箱：** your.email@example.com
 
 ---
